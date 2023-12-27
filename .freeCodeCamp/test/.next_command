@@ -26,3 +26,6 @@ ls --color=auto
 nano castle.sh
 __vsc_prompt_cmd_original
 nano castle.sh
+ls --color=auto -l
+chmod +x castle.sh
+bash castle.sh
