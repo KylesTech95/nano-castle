@@ -29,3 +29,6 @@ nano castle.sh
 ls --color=auto -l
 chmod +x castle.sh
 bash castle.sh
+ls --color=auto
+more castle.sh
+nano castle.sh
