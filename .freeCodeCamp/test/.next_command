@@ -34,3 +34,5 @@ more castle.sh
 nano castle.sh
 nano castle.sh
 nano castle.sh
+./castle.sh
+bash castle.sh
